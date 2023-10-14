@@ -4,11 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Leonit SHABANI</title>
+    <style>
+        .hero {
+        background-color: rgb(238, 226, 199);
+        border-bottom: 10px solid cadetblue;
+
+      }
+
+      .hero-text {
+        padding: 0 40px;
+
+      }
+
+      .footer {
+        background-color: rgb(238, 226, 199);
+        border-bottom: 10px solid cadetblue;
+
+      }
+
+      .motivi {
+        background-color: rgb(238, 226, 199);
+        border-bottom: 10px solid cadetblue;
+
+      }
+
+        
+    </style>
 </head>
 <body>
-    <table  align="center" width="960">
+    <table class="hero" align="center" width="960">
         <tr>
-            <td>
+            <td class="hero-txt">
                 <h1>Leonit SHABANI</h1>
                 <p>142 rruga Zahide Jashari,Gjilan 60000 KOSOVA</p>
             </td>
@@ -17,7 +43,7 @@
         </tr>
     </table>
 
-    <table  align="center" width="960">
+    <table class="footer" align="center" width="960">
         <tr>
             <td> <h2>Biografia</h2>Unë jam <strong>Leonit SHABANI</strong>
                 dhe deshiroj te behem <cite>Programmer</cite> .
@@ -38,7 +64,7 @@
 
     <table  align="center" width="960">
         <tr>
-            <td>
+            <td class="motivi">
                 
 
 
@@ -49,9 +75,9 @@
 <h3>Hobi im</h3>
 
                     <ul>
-                        <li>GYM.</li>
-                        <li>FUTBOLLI.</li>
-                        <li>VRAPIMI</li>
+                        <li>GYM.💪</li>
+                        <li>FUTBOLLI.⚽</li>
+                        <li>VRAPIMI.🏃‍♂️</li>
                     </ul>
 
                     <h2>Qyteti im</h2>
